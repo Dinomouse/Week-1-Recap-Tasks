@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7763064&assignment_repo_type=AssignmentRepo)
 # Bank Holiday Tasks
 
 The bank holiday is a good opportunity to relax, recharge, and spend time with the people and hobbies in your life outside of code - believe it or not, there is life outside of code!
